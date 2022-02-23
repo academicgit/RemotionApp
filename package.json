@@ -2,6 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
+  "homepage": "https://academicgit.github.io/RemotionApp",
   "keywords": [
     "react",
     "starter"
@@ -14,6 +15,7 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "typescript": "3.8.3"
   },
   "scripts": {
